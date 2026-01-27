@@ -48,12 +48,14 @@
 ---
 
 ### 📈 GitHub Stats
+
+</p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danilo-fr&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=danilo-fr&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilo-fr&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilo-fr&theme=tokyonight&layout=compact" />
 </p>
 
 ---
