@@ -6,10 +6,12 @@
 ---
 
 ### 🚀 What I'm currently doing
-- 🔭 Pos-doc at Laboratório Nacional de Astrofísica (LNA) working on **massive stars in multiple systems**
+- 🔭 PCI-Fellow at Laboratório Nacional de Astrofísica (LNA) working on **massive stars in multiple systems**
 - 📊 Analyzing **spectroscopic and photometric data** (TESS, Gaia and ground-based observations)
 - 🧠 Developing **Python tools** for photometric pulsation analyses and stellar line-profile modeling
-- 🌱 Creating educational material and outreach projects in Astronomy---
+- 🌱 Creating educational material and outreach projects in Astronomy
+ 
+---
 
 ### 🌌 Research Interests
 - Massive stars (OB, Be, and related objects)
